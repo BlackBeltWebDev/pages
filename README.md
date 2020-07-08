@@ -6,5 +6,4 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ## Projects
 
-### [Excursion](https://github.com/BlackBeltWebDev/portfolio/excursion) 
-
+### [Excursion](https://blackbeltwebdev.github.io/portfolio/excursion) 
