@@ -1,9 +1,9 @@
-# Welcome to my Developer Portfolio
+# Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/BlackBeltWebDev/portfolio/edit/master/README.md) 
+## Main Pojects
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### [Portfolio](https://developer.marcelleteri.com)
 
-## Projects
+## GitHub Pages
 
-### [Excursion](https://blackbeltwebdev.github.io/portfolio/excursion) 
+### [Excursion](https://blackbeltwebdev.github.io/portfolio/travels) 
